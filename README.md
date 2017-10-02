@@ -3,7 +3,7 @@
 ## Dag 1 (02/10)
 
 ### Activiteiten
-rondleiding in het bedrijf, waaronder ook de hardware gaan bekijken. Ook hebben we de gebruikte software en netwerk overlopen en bekeken. Voor de rest heb ik verder kunnen werken aan de GIP taken.
+rondleiding in het bedrijf, waaronder ook de hardware gaan bekijken. Ook hebben we de gebruikte software en netwerk overlopen en bekeken. Samen met stage begeleider bekeken wat ik kan doen in het bedrijf voor te werken voor schooltaken. Voor de rest heb ik verder kunnen werken aan de GIP taken (Taak_01 en Taak_06).
 
 ### Nieuwe dingen
 * VMware
