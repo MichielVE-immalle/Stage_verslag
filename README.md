@@ -29,9 +29,8 @@ De begeleider heeft een probleem met de mailserver opgelost waarbij er een mail 
 1. ![Alt text](https://files.gitter.im/MichielVE-immalle/5dtn/Draw.png)
 * Het verschil tussen een *gewone ISO* en een *evaluation ISO*. Een *evaluation* is enkel maar om te testen.
 
-
 ### Eigen ervaring
-
+Een leuke en zeer productieve dag waarbij ik veel heb kunnen meevolgen maar ook zelf ben kunnen beginnen met het maken van een klein netwerkje in VirtualBox en heb kunnen leren werken met **Microsoft Visio**.
 
 ## Dag 3 (04/10)
 
