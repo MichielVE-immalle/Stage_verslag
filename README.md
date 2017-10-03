@@ -31,6 +31,7 @@ De begeleider heeft een probleem met de mailserver opgelost waarbij er een mail 
 
 ### Eigen ervaring
 Een leuke en zeer productieve dag waarbij ik veel heb kunnen meevolgen maar ook zelf ben kunnen beginnen met het maken van een klein netwerkje in VirtualBox en heb kunnen leren werken met **Microsoft Visio**.
+![Alt text](https://files.gitter.im/MichielVE-immalle/mYkB/image.png)
 
 ## Dag 3 (04/10)
 
