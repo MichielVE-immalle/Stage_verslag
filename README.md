@@ -21,7 +21,15 @@ het was een leuke eerste dag, waarbij ik veel heb kunnen zien (van de gebruikte 
 ## Dag 2 (03/10)
 
 ### Activiteiten
+De begeleider heeft een probleem met de mailserver opgelost waarbij er een mail niet aankwam bij een klant. Dit werd gedaan door de mail server te benaderen met powershell en via comando's de mail terug te zoeken in de server en naar de status van die mail te kijken of hij was aangekomen in de server of niet. Daarna heb ik samen met de begeleider een **Microsoft Visio** bestand omgezet zodat je het kan gebruiken op **Draw.io**. Ook heb ik geleerd hoe ik met **Microsoft Visio** moet werken. Als laatste heb ik ook een Windows server 2012 geïnstalleerd op mijn VirtualBox en ook 2 windows 10 clients om een klein netwerkje te maken.
+
 ### Nieuwe dingen
+* Leren werken met [Microsoft Visio](https://products.office.com/nl-be/visio/microsoft-visio-plans-and-pricing-compare-visio-options)
+* Een **Microsoft Visio** bestand compatible maken met **Draw.io**
+1. ![Alt text](https://files.gitter.im/MichielVE-immalle/5dtn/Draw.png)
+* Het verschil tussen een *gewone ISO* en een *evaluation ISO*. Een *evaluation* is enkel maar om te testen.
+
+
 ### Eigen ervaring
 
 
