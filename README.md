@@ -39,6 +39,7 @@ Een leuke en zeer productieve dag waarbij ik veel heb kunnen meevolgen maar ook 
 Ik heb samen met mijn begeleider bepaalde delen van het netwerk in detail benaderd:
 * ![Alt text](https://files.gitter.im/MichielVE-immalle/knI0/image.png)
 * ![Alt text](https://files.gitter.im/MichielVE-immalle/uBLH/image.png)
+
 daarna heb ik de info die ik heb gekregen over deze 2 netwerken verwerkt in de case study. Nog voor mijn case study zijn we gaan na checken welk soort glasvezel kabel er is in het netwerk. Daarna heb ik verder mogen werken aan het klein virtuele netwerk.
 
 ### Nieuwe dingen
