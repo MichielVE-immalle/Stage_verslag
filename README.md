@@ -48,7 +48,7 @@ daarna heb ik de info die ik heb gekregen over deze 2 netwerken verwerkt in de c
 2. [het configureren](http://www.sysadminlab.net/windows/configuring-ntp-on-windows-server-2012)
 
 ### Eigen ervaring
-
+Het was een rustige dag waar ik zelf veel heb kunnen werken voor taken en ook meer heb kunnen leren over windows 2012 servers.
 
 ## Dag 4 (05/10)
 
