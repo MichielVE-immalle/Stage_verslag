@@ -60,7 +60,7 @@ Ik ben de dag begonnen met het afmaken van het kleine netwerkje (1 windows 2012 
 * NAT-netwerk toevoegen
 1. ![Alt text](https://files.gitter.im/MichielVE-immalle/FwVf/image.png)
 ### Eigen ervaring
-
+Veel herhaling over virtuele machines en virtuele netwerken maar wel een leuke dag, en weer goed kunnen doorwerken aan de GIP taken.
 
 ## Dag 5 (06/10)
 
