@@ -53,7 +53,12 @@ Het was een rustige dag waar ik zelf veel heb kunnen werken voor taken en ook me
 ## Dag 4 (05/10)
 
 ### Activiteiten
+Ik ben de dag begonnen met het afmaken van het kleine netwerkje (1 windows 2012 R2 server met 2 windows 10 clients). Daarna heb ik nog wat vragen over de **VMWARE** omgeving in het bedrijf  gevraagt aan mijn begeleider. En samen met hem de Case Study nagekeken. Ook was er een klein probleempje binnen gekomen met de VPN server, er was gewoon een update nodig. Als laatste heb ik een taak voor school gemaakt waarbij 2 windows XP machines peer-to-peer verbonden moesten worden.
 ### Nieuwe dingen
+* TTL
+1. [alt text](https://files.gitter.im/MichielVE-immalle/UpxG/image.png)
+* NAT-netwerk toevoegen
+1. [alt text](https://files.gitter.im/MichielVE-immalle/FwVf/image.png)
 ### Eigen ervaring
 
 
