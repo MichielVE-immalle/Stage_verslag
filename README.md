@@ -3,7 +3,7 @@
 ## Dag 1 (02/10)
 
 ### Activiteiten
-Als eerst kreeg ik een rondleiding in het bedrijf, waaronder we ook de hardware zijn gaan bekijken. Ook hebben we de gebruikte software en netwerk in het bedrijf overlopen en bekeken. Samen met stage begeleider bekeken wat ik kan doen dat te maken heeft met schooltaken en hoe ik kan werken aan schooltaken en experimentjes zonder het werk in het bedrijf te belemmeren. Voor de rest heb ik verder kunnen werken aan de GIP taken (Taak_01 en Taak_06) en na kunnen denken over mijn case study.
+Als eerst kreeg ik een rondleiding in het bedrijf, waaronder we ook de hardware zijn gaan bekijken. Ook hebben we de gebruikte software en het netwerk in het bedrijf overlopen en bekeken. Ik heb samen met de stage begeleider bekeken welke taken en experimentjes met netwerken in **VirtualBox** ik kon doen zonder het netwerk al te veel te belasten. Voor de rest heb ik verder kunnen werken aan de GIP taken en na kunnen denken over mijn case study.
 
 ### Nieuwe dingen
 * VMware
@@ -16,12 +16,12 @@ Als eerst kreeg ik een rondleiding in het bedrijf, waaronder we ook de hardware 
 * Het monitoren van Servers en Clients
 
 ### Eigen ervaring
-het was een leuke eerste dag, waarbij ik veel heb kunnen zien (van de gebruikte software en hardware) en veel mee heb bij geleerd.
+Het was een leuke eerste dag, waarbij ik veel heb kunnen zien (van de gebruikte software en hardware) en veel mee heb bij geleerd.
 
 ## Dag 2 (03/10)
 
 ### Activiteiten
-De begeleider heeft een probleem met de mailserver opgelost waarbij er een mail niet aankwam bij een klant. Dit werd gedaan door de mail server te benaderen met powershell en via comando's de mail terug te zoeken in de server en naar de status van die mail te kijken of hij was aangekomen in de server of niet. Daarna heb ik samen met de begeleider een **Microsoft Visio** bestand omgezet zodat je het kan gebruiken op **Draw.io**. Ook heb ik geleerd hoe ik met **Microsoft Visio** moet werken. Als laatste heb ik ook een Windows server 2012 geïnstalleerd op mijn VirtualBox en ook 2 windows 10 clients om een klein netwerkje te maken.
+De begeleider heeft een probleem met de mailserver opgelost waarbij er een mail niet aankwam bij een klant. Dit probleem werd opgelost door de mail server te benaderen via powershell en via comando's de mail terug te zoeken in de server en door naar de status van die mail te kijken of hij was aangekomen in de server of niet. Daarna heb ik samen met de begeleider een bestand van **Microsoft Visio** omgezet zodat je het kan gebruiken op **Draw.io**. Ook heb ik geleerd hoe ik met **Microsoft Visio** kan werken. Als laatste heb ik ook een Windows server 2012 geïnstalleerd op VirtualBox en ook 2 windows 10 clients om een klein netwerkje te maken.
 
 ### Nieuwe dingen
 * Leren werken met [Microsoft Visio](https://products.office.com/nl-be/visio/microsoft-visio-plans-and-pricing-compare-visio-options)
