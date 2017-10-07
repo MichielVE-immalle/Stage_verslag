@@ -67,7 +67,7 @@ Veel herhaling over virtuele machines en virtuele netwerken (windows 2012 server
 ## Dag 5 (06/10)
 
 ### Activiteiten
-Als eerst heeft de begeleider server onderhoud gedaan, daarbij heeft hij alle werknemers die deze server gebruikte gewaarschuwd zodat er geen klachten zoouden binnen dat de server niet werkt. Na het onderhoud heeft de begeleider een printer verplaatst. Rond de voormiddag belde een klant voor het uitbreiden van zijn back-up schijven. De begeleider helpte telefonisch en monitorde en configureerde de schijven vanaf de pc in het bedrijf. Nadien hebben we nog gesproken over de cloud server en het schema van die server bekeken.
+Als eerst heeft de begeleider server onderhoud gedaan, daarbij heeft hij alle werknemers die deze server gebruikte gewaarschuwd zodat er geen klachten zouden binnen dat de server niet werkt. Na het onderhoud heeft de begeleider een printer verplaatst. Rond de middag belde een klant voor het uitbreiden van zijn back-up schijven. De begeleider helpte telefonisch en monitorde en configureerde de schijven vanaf de pc in het bedrijf. Nadien hebben we nog gesproken over de cloud server van het bedrijf en het schema van die server bekeken.
 
 ### Nieuwe dingen
 * Oracle
@@ -75,4 +75,4 @@ Als eerst heeft de begeleider server onderhoud gedaan, daarbij heeft hij alle we
 2. [application server](https://www.oracle.com/middleware/weblogic/index.html)
 
 ### Eigen ervaring
-Het was nog eens eer redelijk drukke dag, maar heb daardoor weer veel bijgeleerd. Jammer dat de stage hier moet eindigen.
+Het was nog eens een redelijk drukke dag, maar heb daardoor wel veel bijgeleerd. Jammer dat de stage hier al moest eindigen.
