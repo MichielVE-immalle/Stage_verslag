@@ -40,7 +40,7 @@ Ik heb samen met mijn begeleider bepaalde delen van het netwerk in detail benade
 * ![Alt text](https://files.gitter.im/MichielVE-immalle/knI0/image.png)
 * ![Alt text](https://files.gitter.im/MichielVE-immalle/uBLH/image.png)
 
-daarna heb ik de info die ik heb gekregen over deze 2 netwerken verwerkt in de case study. Nog voor mijn case study zijn we gaan na checken welk soort glasvezel kabel er is in het netwerk. Daarna heb ik verder mogen werken aan het klein virtuele netwerk.
+Daarna heb ik de info die ik heb gekregen over deze 2 netwerken verwerkt in de case study. Ook zijn we voor mijn case study gaan checken welk soort glasvezel kabel er is in het netwerk. Daarna heb ik verder mogen werken aan het klein virtuele netwerk met de windows 2012 server en windows 10 clients.
 
 ### Nieuwe dingen
 * NTP server
@@ -62,7 +62,7 @@ Ik ben de dag begonnen met het afmaken van het kleine netwerkje (1 windows 2012 
 1. ![Alt text](https://files.gitter.im/MichielVE-immalle/FwVf/image.png)
 
 ### Eigen ervaring
-Veel herhaling over virtuele machines en virtuele netwerken maar wel een leuke dag, en weer goed kunnen doorwerken aan de GIP taken.
+Veel herhaling over virtuele machines en virtuele netwerken (windows 2012 server) maar wel een leuke dag, en weer goed kunnen doorwerken aan de GIP taken.
 
 ## Dag 5 (06/10)
 
