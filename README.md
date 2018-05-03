@@ -10,7 +10,6 @@ Als eerst kreeg ik een rondleiding in het bedrijf, waaronder we ook de hardware 
 1. [vSphere client](https://my.vmware.com/en/web/vmware/info/slug/datacenter_cloud_infrastructure/vmware_vsphere/6_5)
 2. [vCloud director](https://www.vmware.com/products/vcloud-director.html)
 * Micorsoft Hyper-V
-1. ![alt text](http://www.microsoft.com/presspass/images/features/2008/06-26Hyper-VScreenshot2-lg.jpg)
 * Watchguard firewall
 * geëncrypteerd back-uppen, differential back-uppen en Full back-up (van een server)
 * Het monitoren van Servers en Clients
